@@ -59,7 +59,7 @@ const FeaturedCourses = () => {
       </div>
       <div className='mt-20 text-center'>
         <Link href={'/courses'}>
-            <button className='py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-zinc-600 text-zinc-500 hover:border-zinc-400 hover:text-zinc-400 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600'>
+            <button className='py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-zinc-500 text-zinc-400 hover:border-zinc-400 hover:text-zinc-400 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600'>
                 View All Courses
             </button>
         </Link>
