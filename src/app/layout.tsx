@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   description: "Learn music from the best",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
